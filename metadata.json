@@ -1,0 +1,6 @@
+{
+  "name": "Logistics & Fleet Billing Management System",
+  "description": "A comprehensive billing and fleet management system tracking trips, advances, expenses, cargo weights, rates, and profits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
